@@ -1,0 +1,6 @@
+.vs/
+.terraform/
+.idea/
+*.tfstate
+*.hcl
+*.locl.hcl
