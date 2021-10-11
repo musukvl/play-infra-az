@@ -1,1 +1,1 @@
-# Infastructure to play on Azure k8cluster
+# Infastructure to play with k8s on Azure
